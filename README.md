@@ -1,4 +1,4 @@
-# Word-Check
+# Python-Work-Code
 Python code that checks a word against another
 
 # Features
